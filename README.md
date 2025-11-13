@@ -37,8 +37,8 @@ MySpotiFIX is a native Android application that helps users manage their favorit
 ## 📱 Demo APK (Portfolio Purpose Only)
 
 ### For Evaluation & Testing
-- **[📱 Download Demo APK](https://github.com/[YOUR_USERNAME]/MySpotiFIX_Portfolio/releases/download/v1.0-beta/app-release.apk)** (v1.1 - Portfolio Demo)
-- **[📋 View All Releases](https://github.com/[YOUR_USERNAME]/MySpotiFIX_Portfolio/releases)**
+- **[📱 Download Demo APK](https://github.com/nadiatan44/MySpotiFIX_Portfolio/releases/download/v1.0-beta/app-release.apk)** (v1.1 - Portfolio Demo)
+- **[📋 View All Releases](https://github.com/nadiatan44/MySpotiFIX_Portfolio/releases)**
 - Minimum Android version: 7.0 (API 24)
 - File size: ~3MB
 - **Purpose**: Technical evaluation and portfolio review only
